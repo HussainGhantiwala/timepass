@@ -1,0 +1,42 @@
+[
+    {
+        "gif": "Assets/image/madness.gif",
+        "sound": "lib/video/madness.mp3"
+    },
+    {
+        "gif": "Assets/image/eyes.gif",
+        "sound": "lib/video/eyes.mp3"
+    },
+    {
+        "gif": "Assets/image/fine.gif",
+        "sound": "lib/video/fine.mp3"
+    },
+    {
+        "gif": "Assets/image/no_one.gif",
+        "sound": "lib/video/no_one.mp3"
+    },
+    {
+        "gif": "Assets/image/strong.gif",
+        "sound": "lib/video/strong.mp3"
+    },
+    {
+        "gif": "Assets/image/unagi.gif",
+        "sound": "lib/video/unagi.mp3"
+    },
+    {
+        "gif": "Assets/image/doin.gif",
+        "sound": "lib/video/doin.mp3"
+    },
+    {
+        "gif": "Assets/image/hi.gif",
+        "sound": "lib/video/hi.mp3"
+    },
+    {
+        "gif": "Assets/image/advice.gif",
+        "sound": "lib/video/advice.mp3"
+    },
+    {
+        "gif": "Assets/image/idc.gif",
+        "sound": "lib/video/idc.mp3"
+    }
+]

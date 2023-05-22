@@ -1,0 +1,34 @@
+[
+    {
+        "gif": "Assets/image/safed.gif",
+        "sound": "lib/video/safed.mp3"
+    },
+    {
+        "gif": "Assets/image/frog.gif",
+        "sound": "lib/video/laugh.mp3"
+    },
+    {
+        "gif": "Assets/image/ashish.gif",
+        "sound": "lib/video/ashish.mp3"
+    },
+    {
+        "gif": "Assets/image/Tu_bhi_nikal_lavde.gif",
+        "sound": "lib/video/nikal.mp3"
+    },
+    {
+        "gif": "Assets/image/Chal_Bhosdike_Tenor_GIF_-_Chal_Bhosdike_Tenor_Pakistani_Chal_Bhosdike_-_Discover___Share_GIFs.gif",
+        "sound": "lib/video/bsdk.mp3"
+    },
+    {
+        "gif": "Assets/image/sameer.gif",
+        "sound": "lib/video/sameer.mp3"
+    },
+    {
+        "gif": "Assets/image/ok.gif",
+        "sound": "lib/video/ok.mp3"
+    },
+    {
+        "gif": "Assets/image/pyari.gif",
+        "sound": "lib/video/pyari.mp3"
+    }
+]

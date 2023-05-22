@@ -1,0 +1,58 @@
+[
+    {
+        "gif": "Assets/image/she.gif",
+        "sound": "lib/video/she.mp3"
+    },
+    {
+        "gif": "Assets/image/dead.gif",
+        "sound": "lib/video/dead.mp3"
+    },
+    {
+        "gif": "Assets/image/its_happening.gif",
+        "sound": "lib/video/its_happening.mp3"
+    },
+    {
+        "gif": "Assets/image/face.gif",
+        "sound": "lib/video/face.mp3"
+    },
+    {
+        "gif": "Assets/image/No.gif",
+        "sound": "lib/video/No.mp3"
+    },
+    {
+        "gif": "Assets/image/worst.gif",
+        "sound": "lib/video/worst.mp3"
+    },
+    {
+        "gif": "Assets/image/stutter.gif",
+        "sound": "lib/video/stutter.mp3"
+    },
+    {
+        "gif": "Assets/image/bank.gif",
+        "sound": "lib/video/bank.mp3"
+    },
+    {
+        "gif": "Assets/image/heart.gif",
+        "sound": "lib/video/heart.mp3"
+    },
+    {
+        "gif": "Assets/image/way.gif",
+        "sound": "lib/video/way.mp3"
+    },
+    {
+        "gif": "Assets/image/yes.gif",
+        "sound": "lib/video/yes.mp3"
+    },
+    {
+        "gif": "Assets/image/lost.gif",
+        "sound": "lib/video/lost.mp3"
+    },
+    {
+        "gif": "Assets/image/kill.gif",
+        "sound": "lib/video/kill.mp3"
+    },
+    {
+        "gif": "Assets/image/iam_okay.gif",
+        "sound": "lib/video/iam_okay.mp3"
+    }
+]

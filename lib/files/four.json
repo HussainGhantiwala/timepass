@@ -1,0 +1,14 @@
+[
+    {
+        "gif": "Assets/image/cry.gif",
+        "sound": "lib/video/cry.mp3"
+    },
+    {
+        "gif": "Assets/image/cool.gif",
+        "sound": "lib/video/cool.mp3"
+    },
+    {
+        "gif": "Assets/image/yas.gif",
+        "sound": "lib/video/yas.mp3"
+    }
+]
